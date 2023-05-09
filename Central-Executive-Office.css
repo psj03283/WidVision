@@ -595,29 +595,42 @@
 }
 
 .u-section-5 .u-sheet-1 {
-  min-height: 750px;
+  min-height: 926px;
 }
 
 .u-section-5 .u-layout-wrap-1 {
   margin-top: 60px;
-  margin-bottom: 60px;
+  margin-bottom: 45px;
 }
 
 .u-section-5 .u-layout-cell-1 {
-  min-height: 745px;
+  min-height: 821px;
 }
 
 .u-section-5 .u-container-layout-1 {
-  padding: 30px;
+  padding: 30px 0;
 }
 
 .u-section-5 .u-image-1 {
-  height: 685px;
-  margin: 0;
+  height: 337px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.u-section-5 .u-image-2 {
+  width: 268px;
+  height: 380px;
+  margin: 30px auto 0 0;
+}
+
+.u-section-5 .u-image-3 {
+  width: 285px;
+  height: 380px;
+  margin: -380px 0 0 auto;
 }
 
 .u-section-5 .u-layout-cell-2 {
-  min-height: 619px;
+  min-height: 821px;
 }
 
 .u-section-5 .u-container-layout-2 {
@@ -672,20 +685,17 @@
   }
 
   .u-section-5 .u-layout-cell-1 {
-    min-height: 661px;
+    min-height: 677px;
   }
 
   .u-section-5 .u-container-layout-1 {
     padding-right: 20px;
-    padding-left: 0;
   }
 
   .u-section-5 .u-image-1 {
-    height: 446px;
+    height: 278px;
     margin-top: 77px;
     background-position: 50% 50%;
-    margin-right: initial;
-    margin-left: initial;
   }
 
   .u-section-5 .u-layout-cell-2 {
@@ -723,18 +733,18 @@
   }
 
   .u-section-5 .u-layout-cell-1 {
-    min-height: 645px;
+    min-height: 1037px;
   }
 
   .u-section-5 .u-container-layout-1 {
-    padding: 20px 30px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 0;
   }
 
   .u-section-5 .u-image-1 {
-    height: 627px;
+    height: 426px;
     margin-top: 0;
-    margin-right: initial;
-    margin-left: initial;
   }
 
   .u-section-5 .u-layout-cell-2 {
@@ -752,18 +762,11 @@
   }
 
   .u-section-5 .u-layout-cell-1 {
-    min-height: 515px;
-  }
-
-  .u-section-5 .u-container-layout-1 {
-    padding-left: 10px;
-    padding-right: 10px;
+    min-height: 778px;
   }
 
   .u-section-5 .u-image-1 {
-    height: 494px;
-    margin-right: initial;
-    margin-left: initial;
+    height: 320px;
   }
 
   .u-section-5 .u-layout-cell-2 {
@@ -795,13 +798,11 @@
   }
 
   .u-section-5 .u-layout-cell-1 {
-    min-height: 324px;
+    min-height: 490px;
   }
 
   .u-section-5 .u-image-1 {
-    height: 304px;
-    margin-right: initial;
-    margin-left: initial;
+    height: 201px;
   }
 
   .u-section-5 .u-layout-cell-2 {
